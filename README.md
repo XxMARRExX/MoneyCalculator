@@ -45,7 +45,7 @@ Para ejecutar `MoneyCalculator` en tu entorno local, sigue estos pasos:
 1. Clona el repositorio en tu máquina local:
    ```bash
    git clone https://github.com/XxMARRExX/MoneyCalculator.git
-   cd imageviewer-mvc
+   cd MoneyCalculator
 2. Ejecuta en tu consola el comando:
    ```bash
    java -jar .\out\artifacts\ImageViewer_MVC_jar\MoneyCalculator.jar
